@@ -1,0 +1,8 @@
+Primeiramente ter acesso como super usuario(usando o comando SUDO SU)
+Acessar a ferramenta setoolkit
+No menu com as 6 opções, escolher a opção 1(Social-engineering attacks)
+No segundo menu com 10 opções escolher a opção numero 2(web site attack vectors)
+Em seguida no terceiro menu escolher aopção 3(Credential harvester attack method)
+No menu seguinte escolher a opção 2(site cloner)
+Após isso e so escolher a opção 2, e o setoolkit vau pedir um ip, que poder ser de outra maquina rodando na VM.
+Por ultimo e so escolher um site que precise de credenciais de login para clonar.
